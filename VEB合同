@@ -1,0 +1,17 @@
+ ## VEB
+ Contract address: **	0xf2dd6a3e4d09bfec00f98ea8852d053b49574100**
+ Etherscan: https://etherscan.io/token/0xf2dd6a3e4d09bfec00f98ea8852d053b49574100
+  #### An VEB token that is mined using PoW through a SmartContract
+ @@ -9,3 +11,20 @@
+  * Difficulty target auto-adjusts with PoW hashrate
+  * Rewards decrease as more tokens are minted
+  * Compatible with all services that support VEB tokens
+ ### Mining
+ Please download one of the following miners and follow instructions for the miner you chose.
+ 1. CoSMIC - https://bitbucket.org/
+2. MV OpenGL AMD - https://github.com/mining-visualizer/
+3. Azlehria CUDA NVIDIA - https://github.com/azlehria/0xbitcoin-gpuminer/releases/tag/v2.10.0-pre5
+ For pool mining you can also try the latest version of Azlehria:
+ https://github.com/
+ ### Mining Pools
+ Currently there are no mining pools available for KIWI. We will update when we are aware of any pools.
