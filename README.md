@@ -1,5 +1,6 @@
 # vebtoken
 VEB
+由以太坊技术支持及俄罗斯VEB银行注资的VEB基金会研发
 合同地址:0xf2dd6a3e4d09bfec00f98ea8852d053b49574100
 Etherscan:https://etherscan.io/token/0xf2dd6a3e4d09bfec00f98ea8852d053b49574100
 
